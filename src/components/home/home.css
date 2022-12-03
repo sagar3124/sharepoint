@@ -1,0 +1,7 @@
+img {
+  width: 100%;
+  display: block;
+  object-fit: fit-content;
+  height: 100%;
+  z-index: -1;
+}
